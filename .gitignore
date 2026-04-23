@@ -28,6 +28,7 @@
 # /.zed
 
 # ignore saya
+/database
 node_modules/
 public/hot
 public/storage
